@@ -267,7 +267,6 @@ body {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-
 }
 .projects .project_content .project1 {
   margin-left: 80px;
@@ -276,13 +275,8 @@ body {
   margin-left: 60px;
 }
 
-.project_section1
-  .project1
-  .live_demo
-  :hover ,.project_section1
-  .project2
-  .live_demo
-  :hover {
+.project_section1 .project1 .live_demo :hover,
+.project_section1 .project2 .live_demo :hover {
   opacity: 0.5;
   transform: scale(1.05);
   transition: all 0.3s ease;
@@ -412,6 +406,16 @@ body {
 }
 .bottom_navbar a:hover::after {
   width: 100%;
+}
+
+.footer{
+ color: gray;
+ margin-top: 100px;
+ margin-bottom: 20px;
+}
+.footer a{
+  text-decoration: none;
+  color: grey;
 }
 
 /* Desktop */
@@ -809,7 +813,7 @@ body {
   .navbar {
     flex-direction: row;
     font-size: 25px;
-    margin-left: -80px;
+    margin-left: -0px;
     justify-content: center;
     padding: 20px 10px 20px 10px;
   }
