@@ -53,9 +53,9 @@ This portfolio is live at:
 Deployed via GitHub Pages.
 
 📩 Contact Me
-📧 Email: vithunkumar07@gmail.com
+📧 Email: vithunsk4@gmail.com
 
-🔗 LinkedIn
+💼 LinkedIn: linkedin.com/in/vithun-sk
 
 💻 GitHub: github.com/vithun-sk
 
