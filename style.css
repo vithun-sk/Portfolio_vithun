@@ -813,7 +813,7 @@ body {
   .navbar {
     flex-direction: row;
     font-size: 25px;
-    margin-left: -0px;
+    margin-left: 0px;
     justify-content: center;
     padding: 20px 10px 20px 10px;
   }
@@ -975,7 +975,7 @@ body {
 
 @media (min-width: 531px) and (max-width: 630px) {
   .navlists {
-    margin-left: 100px;
+    margin-left: 45px;
   }
 }
 
