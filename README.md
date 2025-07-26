@@ -31,10 +31,12 @@ Welcome to my **Personal Portfolio Website**, built using pure **HTML** and **CS
 ## 📁 Folder Structure
 
 /
-
 ├── index.html # Main page of the portfolio
+
 ├── style.css # Stylesheet for the portfolio
+
 ├── /images # Folder containing all image assets
+
 └── README.md # This file
 
 
