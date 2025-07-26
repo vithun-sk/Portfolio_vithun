@@ -53,14 +53,17 @@ This portfolio is live at:
 Deployed via GitHub Pages.
 
 📩 Contact Me
-📧 Email: vithunsk4@gmail.com
 
-💼 LinkedIn: linkedin.com/in/vithun-sk
+📧 Email: vithunkumar07@gmail.com
 
-💻 GitHub: github.com/vithun-sk
+💼 LinkedIn: [linkedin.com/in/vithun-sk](linkedin.com/in/vithun-sk)
+
+💻 GitHub: [github.com/vithun-sk](github.com/vithun-sk)
+
 
 📃 License
 This project is open source and available under the MIT License.
+
 
 📝 Acknowledgements
 Thanks for checking out my portfolio! Feedback and contributions are always welcome.
