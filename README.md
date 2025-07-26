@@ -55,7 +55,7 @@ Deployed via GitHub Pages.
 📩 Contact Me
 📧 Email: vithunkumar07@gmail.com
 
-💼 LinkedIn: linkedin.com/in/vithun-sk
+🔗 LinkedIn
 
 💻 GitHub: github.com/vithun-sk
 
