@@ -156,35 +156,8 @@ body {
   border-radius: 50px;
   margin: -20px 100px 100px 100px;
 }
-.about_me_content .certificates_college {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-}
-.certificates_college .certificates,
-.certificates_college .college {
-  text-align: center;
-  margin: 0px 50px 50px 100px;
-  border: red solid 2px;
-  border-radius: 50px;
-  padding: 20px;
-  width: 250px;
-}
-.certificates_college .college h2,
-.certificates_college .certificates h2 {
-  color: red;
-  padding: 5px;
-  font-size: 25px;
-}
-.certificates_college .college h2,
-.certificates_college .certificates h2 {
-  font-size: 20px;
-}
-.certificates_college .college {
-  margin: 0px 50px 50px 0px;
-}
 .about_me_content .about_me_para {
-  text-align: center;
+  margin-top: 20px;
   font-size: 18px;
 }
 
