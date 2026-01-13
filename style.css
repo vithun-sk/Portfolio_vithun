@@ -19,7 +19,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  gap: 350px;
+  gap: 600px;
   align-items: center;
   padding: 40px;
   font-size: 25px;
@@ -230,21 +230,15 @@ body {
   flex-direction: row;
   justify-content: left;
   padding: 10px;
+  
 }
 
 .language {
   font-size: 23px;
   font-weight: 700;
+  padding-left: 2px;
+  
 }
-
-.level {
-  color: rgb(232, 36, 36);
-  font-size: 16px;
-  font-family: "Poppins", sans-serif;
-  font-weight: 100;
-  text-align: left;
-}
-
 /* Projects */
 .projects {
   padding-top: 10px;
@@ -557,16 +551,12 @@ body {
   .skills_fulltag {
     width: auto;
     padding: 30px;
+    
   }
 
   .language {
     font-size: 40px;
   }
-
-  .level {
-    font-size: 33px;
-  }
-
   /* Projects */
   .projects {
     padding-top: 30px;
@@ -679,8 +669,13 @@ body {
     width: 300px;
     height: 300px;
   }
+  .about_me_content{
+    margin: 50px;
+  }
+  .about_image{
+    margin: 50px;
+  }
 }
-
 /* For Tab  */
 @media (min-width: 768px) and (max-width: 1023px) {
 
@@ -799,11 +794,6 @@ body {
   .language {
     font-size: 20px;
   }
-
-  .level {
-    font-size: 15px;
-  }
-
   /* Projects Section */
   .project_section1 {
     flex-direction: column;
@@ -812,12 +802,12 @@ body {
   }
 
   .project2 {
-    margin-left: 80px;
     margin-top: 50px;
   }
 
   .project1,
   .project2 {
+    margin-left: 20px;
     width: 500px;
     padding: 30px;
   }
@@ -968,10 +958,6 @@ body {
 
   .language {
     font-size: 25px;
-  }
-
-  .level {
-    font-size: 18px;
   }
 
   /* Projects Section */
@@ -1138,10 +1124,6 @@ body {
     font-size: 18px;
   }
 
-  .level {
-    font-size: 14px;
-  }
-
   /* Projects Section */
   .projects .project_section1 {
     flex-direction: column;
@@ -1252,3 +1234,5 @@ body {
     font-size: 14px;
   }
 }
+
+
